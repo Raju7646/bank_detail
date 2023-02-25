@@ -1,8 +1,3 @@
-# bank_detail
-procedure ,view 
-
-
-show databases
 create database  ineuron_raju
 use ineuron_raju
 
